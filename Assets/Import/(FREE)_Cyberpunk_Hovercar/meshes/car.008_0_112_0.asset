@@ -1,0 +1,399 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: car.008_0_112_0
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 225
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 56
+    localAABB:
+      m_Center: {x: 1.269735, y: 13.795216, z: -8.144825}
+      m_Extent: {x: 0.04000497, y: 0.13093519, z: 0.064655304}
+  m_Shapes:
+    vertices:
+    - vertex: {x: -0.006719947, y: 0.0008096695, z: 0.0003604889}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 0
+    - vertex: {x: -0.0063899755, y: -0.0017900467, z: -0.0013599396}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 1
+    - vertex: {x: -0.0065900087, y: -0.0013494492, z: -0.0008201599}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 2
+    - vertex: {x: -0.0066599846, y: 0.0010004044, z: 0.00080013275}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 3
+    - vertex: {x: -0.0009599924, y: -0.005399704, z: -0.003970146}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 4
+    - vertex: {x: 0.0016800165, y: -0.005259514, z: -0.0039396286}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 5
+    - vertex: {x: 0.0018099546, y: -0.0052890778, z: -0.003829956}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 6
+    - vertex: {x: -0.001079917, y: -0.005449295, z: -0.0038795471}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 7
+    - vertex: {x: -0.00036990643, y: 0.00034999847, z: -0.0067596436}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 8
+    - vertex: {x: -0.00034999847, y: 0.00016021729, z: -0.006770134}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 9
+    - vertex: {x: -0.00001001358, y: -0.00016975403, z: -0.006770134}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 10
+    - vertex: {x: 0.0002900362, y: 0.00018978119, z: -0.006770134}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 11
+    - vertex: {x: 0.0002799034, y: 0.00037002563, z: -0.006760597}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 12
+    - vertex: {x: 0.00030994415, y: 0.00045013428, z: -0.006760597}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 13
+    - vertex: {x: 0.00020992756, y: 0.00051021576, z: -0.0067596436}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 14
+    - vertex: {x: 0.00002002716, y: 0.00044059753, z: -0.006770134}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 15
+    - vertex: {x: -0.000100016594, y: 0.00043010712, z: -0.0067596436}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 16
+    - vertex: {x: -0.00029993057, y: 0.00047969818, z: -0.006749153}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 17
+    - vertex: {x: -0.0003899336, y: 0.0004196167, z: -0.006760597}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 18
+    - vertex: {x: 0.0057001114, y: 0.0033493042, z: 0.0015096664}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 19
+    - vertex: {x: -0.00023007393, y: 0.0060100555, z: 0.0031204224}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 20
+    - vertex: {x: -0.00021004677, y: 0.0057201385, z: 0.0036201477}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 21
+    - vertex: {x: 0.0053999424, y: 0.0035505295, z: 0.0020303726}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 22
+    - vertex: {x: 0.006649971, y: 0.001250267, z: 0.00024986267}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 23
+    - vertex: {x: 0.0065699816, y: 0.0014801025, z: 0.0007200241}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 24
+    - vertex: {x: -0.00023007393, y: 0.0060100555, z: 0.0031204224}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 25
+    - vertex: {x: -0.005970001, y: 0.002820015, z: 0.0015192032}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 26
+    - vertex: {x: -0.005690098, y: 0.0030698776, z: 0.002049446}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 27
+    - vertex: {x: -0.00021004677, y: 0.0057201385, z: 0.0036201477}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 28
+    - vertex: {x: 0.004819989, y: 0.00008010864, z: -0.004770279}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 29
+    - vertex: {x: 0.0049899817, y: 0.0017204285, z: -0.004260063}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 30
+    - vertex: {x: 0.0049899817, y: 0.0017204285, z: -0.004260063}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 31
+    - vertex: {x: 0.004819989, y: 0.00008010864, z: -0.004770279}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 32
+    - vertex: {x: 0.006669998, y: -0.0008401871, z: -0.000869751}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 33
+    - vertex: {x: -0.004779935, y: 0.0032396317, z: -0.0035505295}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 34
+    - vertex: {x: -0.0051100254, y: 0.0012998581, z: -0.004240036}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 35
+    - vertex: {x: -0.0051100254, y: 0.0012998581, z: -0.004240036}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 36
+    - vertex: {x: -0.004779935, y: 0.0032396317, z: -0.0035505295}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 37
+    - vertex: {x: -0.004889965, y: -0.00024986267, z: -0.0046691895}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 38
+    - vertex: {x: -0.0033400059, y: -0.0023698807, z: -0.0053901672}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 39
+    - vertex: {x: -0.0033400059, y: -0.0023698807, z: -0.0053901672}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 40
+    - vertex: {x: -0.004889965, y: -0.00024986267, z: -0.0046691895}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 41
+    - vertex: {x: -0.0045900345, y: -0.0041103363, z: -0.0028295517}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 42
+    - vertex: {x: 0.0011399984, y: -0.0031204224, z: -0.0059099197}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 43
+    - vertex: {x: 0.0034899712, y: -0.0021800995, z: -0.0053901672}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 44
+    - vertex: {x: 0.0034899712, y: -0.0021800995, z: -0.0053901672}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 45
+    - vertex: {x: 0.0047500134, y: -0.0038499832, z: -0.002940178}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 46
+    - vertex: {x: -0.00027000904, y: 0.0062999725, z: -0.0024795532}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 47
+    - vertex: {x: -0.00027000904, y: 0.0062999725, z: -0.0024795532}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 48
+    - vertex: {x: 0.004459977, y: 0.0036306381, z: -0.0035896301}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 49
+    - vertex: {x: -0.00027000904, y: 0.0062999725, z: -0.0024795532}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 50
+    - vertex: {x: 0.004459977, y: 0.0036306381, z: -0.0035896301}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 51
+    - vertex: {x: 0.0042500496, y: -0.0041399, z: -0.003279686}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 52
+    - vertex: {x: 0.0065100193, y: -0.001250267, z: -0.0013799667}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 53
+    - vertex: {x: -0.00075006485, y: -0.0034294128, z: -0.005800247}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 54
+    - vertex: {x: -0.004189968, y: -0.0043201447, z: -0.003129959}
+      normal: {x: 0, y: 0, z: 0}
+      tangent: {x: 0, y: 0, z: 0}
+      index: 55
+    shapes:
+    - firstVertex: 0
+      vertexCount: 56
+      hasNormals: 0
+      hasTangents: 0
+    channels:
+    - name: Target_112_0
+      nameHash: 2323380690
+      frameIndex: 0
+      frameCount: 1
+    fullWeights:
+    - 1
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 0a00090008000c000b000a000e000d000c0010000f000e001200110010000a00080012000e000c000a00120010000e0012000e000a000200010000000300020000000600050004000700060004001500140013001600150013001600130017001800160017001b001a0019001c001b0019001d00120008001e001d000800210020001f00180021001f0022000b000c00230022000c001b002500240003001b00240026000d000e00270026000e000200290028002a00020028002b00100011002c002b00110006002b002d002e0006002d002f000a000b0022002f000b001c00300025001b001c002500310009000a002f0031000a001600330032001500160032002100350034002e00210034002e003400050006002e0005002e002d00200021002e0020002c00110012001d002c0012002a002800360007002a00360027000e000f00360027000f002a003700010002002a00010018001f0033001600180033001e000800090031001e00090018001700350021001800350003002400290002000300290023000c000d00260023000d00030000001a001b0003001a0036000f0010002b0036001000070036002b00060007002b000700040037002a0007003700
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 56
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 1
+      offset: 0
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 2688
+    _typelessdata: 72dc9d3fe7e35c41ba4e01c17f377fbfd2e3963d1ad0d53c14fe9bbd209e7dbf4f03e7bd000080bfcb679d3fa0605b414d6701c17a227abf6c9029beccea08be7230383e99717abfe8afd2bd000080bf81b29d3f64925c41fc2903c1de667fbf46e145bd92e145bdfd05593d89567ebfcb2ccebd000080bfb9199e3f7ced5d41181503c1cc497dbf87f7023e6aa28c3d110409be07a87cbf18bab7bd000080bfe5d5a13fe4a05a41446e01c1eae504befd3e4cbf9eb716bf4ff87c3f56b81cbe4fe42abc000080bfa1dba33f54a95a41786e01c1c7aaa33eeb9341bf9a2c12bfc3506f3fba37b33ed5f0743d000080bfce36a33f0ef35b41192d03c137656a3ec7cd47bf7bee14bff7ff733f77349a3edfe8edbc000080bf65a5a13ff2ea5b41ef2c03c1c45393be637e46bfd4e80fbf6d91723f4db3a1beb65e4abd000080bfee77a43f98fa5d41363c03c1279e81bd79b35f3d9b1a7fbf4d097f3fe574803d1e1675bd000080bf7671a33ff1575e41f23503c1f36893bd2fd0db3c5b3e7fbfde517f3fcd42583cfab992bd000080bf889da13feb8b5e411c3103c19fe8c5bbce8b533d55a77fbfb7327f3f8deca13d1e46feba000080bfe3df9f3fad515e41b33503c105919a3d23730ebc99427fbf91297c3fb8f31f3eb8e6953d000080bfcd239f3facf35d41a33b03c140d9c03c27486b3d98817fbf79c47e3f8fd2bf3d6773ec3c000080bf52b89e3fc4ce5c412b4d03c15a70643d19a3833d44127fbf65fb7e3f4ce0863db5c2753d000080bf882ea03f09615c410d5403c1171d493ba59e843d23767fbfff7a7f3fbd94813de71aeb3b000080bfc8b5a13f9d465c41ef5503c1a330533cecfb8c3d115f7fbf987f7f3fa694763d26ae8b3c000080bffef1a23f8e4c5c41d05503c19da7c6bbc070753d07897fbf63117f3f1298ae3de5c174ba000080bf5c72a43f9b665c418b5403c1a1fa0fbd01a8913d71317fbf61847d3fd5ea0b3ed634cebc000080bf616ca53f8cca5c41af4e03c1b963cbbc90bf7e3de26c7fbf89127f3fdb7aa93dd1d9a0bc000080bf30f0a43f0d715d41084901c13312433f34dc153f01c78d3ece2c1fbf79e7473f00a5763d000080bf36eaa13f2eca5d41134901c1d6659cbe69a8573f7a44e33ed9295bbfe44d1fbdd6ec03bf000080bf1990a13fbfb75e41301203c14c30663ec0df5c3f74dae73e7d756dbf79e4a93e94e12fbe000080bfb823a43f44695e41491103c113e9593fdcf4f33e5f4b613e6da300bf19645c3fa829a33d000080bf1e8aa63f4aef5c41a04f01c161c97a3f7e93483e39c5343dd78a4cbe011a793febe7eb3d000080bfec86a53f3cf75d41df1503c1d7d67d3f2f67043ebf861c3c70b604bed3867c3fab60ce3d000080bf36eaa13f2eca5d41134901c1d6659cbe69a8573f7a44e33e1a1567bfae25cfbe492b163e000080bf910a9f3f90665d41604801c185a062bf3dfdd13e1595603e7b37e0be3ed464bff1c4c4bd000080bfe71d9f3f2d605e41b61003c169474dbfe88b053ffd27953e04dd0ebfd9fd53bf66fe59bd000080bf1990a13fbfb75e41301203c14c30663ec0df5c3f74dae73ed26a53bf7ea49fbd6af80e3f000080bf8885a63f86ac5c41de5403c1c5ee1b3fb6e99dbc35f84abf9135493f54cc173e5ca8193f000080bf3c88a53f7f135e41663d03c17ea65e3f12a10d3e0790f2be87affc3e665f75bead08563f000080bf3c88a53f7f135e41663d03c17ea65e3f12a10d3e0790f2be339098bcd6eb773f90817e3e000080bf8885a63f86ac5c41de5403c1c5ee1b3fb6e99dbc35f84abf0b7e383e11187a3fb2d4ea3d000080bf3c83a63f658d5c41bf2b03c120517d3fe2d39bbdc959fbbd66d4af3d024e7e3f595e9c3d000080bf840d9f3f5f7b5e412c3703c1a1ab2ebf7ce8f93e5d540bbf7ab7383fd1c0113fcdb5c9be000080bf71039e3fb5095e418a3c03c1b9e727bfb9390f3e3be63dbf409d3e3ffd1e903e30f31abf000080bf71039e3fb5095e418a3c03c1b9e727bfb9390f3e3be63dbf82ab50bc630e7cbfee9232be000080bf840d9f3f5f7b5e412c3703c1a1ab2ebf7ce8f93e5d540bbf1505f3be34ab5cbfd84736be000080bfe99a9d3f27b15c41315303c194b954bf772121ba136c0ebf44800d3fb3b3e63d7c6153bf000080bf679b9f3fef2c5c41605903c1d26d0bbf741ba1bea50347bfa2b2563f552154be82f300bf000080bf679b9f3fef2c5c41605903c1d26d0bbf741ba1bea50347bfad692f3fd09133bfc7d748be000080bfe99a9d3f27b15c41315303c194b954bf772121ba136c0ebf98f43c3e039671bf8a948cbe000080bf57b29f3ff80d5c41f52d03c1b8904abfee57febe738bb6bee9d90c3ff73355bf029b78bd000080bfe431a33f73115c41605903c1a6e9f13d9001cbbe541069bf9a6c7a3fdbf3503e0adb1b3d000080bf9626a53f4e345c41085a03c1c520b33e5d919abe0b0763bf5a6b6d3f1c267b3e6894903e000080bf9626a53f4e345c41085a03c1c520b33e5d919abe0b0763bfe27b353f6e43343fa1b6233d000080bf3928a53f4d155c41682e03c143762c3f8a3b14bfe41debbee9c2253f5211433ff27b32bc000080bfec86a13f83d15e41ca3703c1fce6743eeb002a3f765835bf505d783f48ed08beea0b4f3e000080bfec86a13f83d15e41ca3703c1fce6743eeb002a3f765835bf1e92783f9f7e27be50ab323e000080bf1d20a43f81845e41b53703c13b89333ff6d4cc3ed30a17bf17b2353fec25f0bef28d063f000080bfec86a13f83d15e41ca3703c1fce6743eeb002a3f765835bf1e92783f9f7e27be50ab323e000080bf1d20a43f81845e41b53703c13b89333ff6d4cc3ed30a17bfd959e0beec0f653f5dd9af3d000080bf1b2aa63faad45a418d6e01c1fa0c513f779de1bed8dfbebeeb3e063fbb15563f2d09243e000080bf8fa5a73f8c5b5b41646901c105697f3f3b2bd03c82d280bd4d6d96bcb9657e3f08b1e13d000080bf5396a13fb5095c417f5903c1534f21be64ffdebe14e362bf10237c3f88a809bea339dfbd000080bfb5899f3f6ccf5a41bb6d01c10edf2cbf21a718bfab3fdebe43e5303f9d9f37bf1b8bb7bd000080bfb1c45b3f3a40503efbcb5e3f52614c3e7593603f9886913e4a415f3f2575923e9127613f62674a3e5856623f016a4a3e87fe613fa110913e05a8613f630b913ec364623f5e85943ed23a623f191c953ef7e4613feb73953edf89613f0820953e4f5d613fda8f943ec72e613f69c6923e096d613f7715923ec8b5613f47e6913ebbf2613f36ea913e683f623f990d923e6c78623ff4a6923e5322693ffca9513e60c86a3fe10b533e2979653fa52c933e1ee1643fd4d4923eecdd673fbd35503e0360643f637a923e83dd583fda20533ebd8c5a3f3aaf513e1ec45e3fa7cb923e24285e3f1826933e4eb9623f3771923e3baa623f60ab943e7e57643fdee5923ed7fa623f74ef913ec5fe623f0a80913e1058613fad6e953ece19613fcbb9943ecf495f3f50df923e9ace5e3fd235933e58e7603f289b923ec841613fa5bd913e933a613fa297913e6397603f62f3913e4339613f3928913e37fd613faa82913e6267623f29b3913e516b623f309e913ef06d623f282c913e96e7613f0ef3953e98345e3ff38e933e486d623f1f68953eb56c653f3194933ea1d6643fb03d933e3081633fcefc4a3e85b6643fe42c4c3e5da7613f1c7c913e11fc5f3f9d2e4b3e
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 1.269795, y: 13.795666, z: -8.1462345}
+    m_Extent: {x: 0.046454966, y: 0.13678503, z: 0.069015026}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 

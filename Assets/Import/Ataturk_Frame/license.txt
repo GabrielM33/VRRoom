@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ataturk Frame
+* source:	https://sketchfab.com/3d-models/ataturk-frame-34f1997e391d418282fa4296508c4089
+* author:	iayseozdemir (https://sketchfab.com/iayseozdemir)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ataturk Frame" (https://sketchfab.com/3d-models/ataturk-frame-34f1997e391d418282fa4296508c4089) by iayseozdemir (https://sketchfab.com/iayseozdemir) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
